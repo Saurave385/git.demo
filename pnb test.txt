@@ -1,0 +1,3 @@
+Storage  - 300/200 SSD each
+Database - Oracle 
+Additonal IP - local I/P
